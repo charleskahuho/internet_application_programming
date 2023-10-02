@@ -7,3 +7,6 @@ td, th{
     margin: 2px;
     padding: 3px;
 }
+ul{
+    list-style-type: none;
+}
